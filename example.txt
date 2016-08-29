@@ -1,0 +1,19 @@
+---------------------
+|0 1 9 |6 0 7 |0 0 0|
+|7 0 0 |0 0 3 |9 5 0|
+|3 0 0 |4 0 0 |0 0 7|
+---------------------
+|4 0 5 |0 0 0 |8 6 0|
+|0 0 0 |0 6 0 |0 0 0|
+|0 6 3 |0 0 0 |7 0 9|
+---------------------
+|8 0 0 |0 0 6 |0 0 5|
+|0 3 1 |7 0 0 |0 0 4|
+|0 0 0 |5 0 1 |2 7 0|
+---------------------
+
+The rules of the game:
+    1) No zeros can remain on the board, that is every position
+       must be filled with a number 1-9
+    2) Within a 3x3 section, no numbers (1-9) can repeat
+    3) Across a row or down a column, no numbers (1-9) can repeat
